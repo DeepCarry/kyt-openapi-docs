@@ -1,4 +1,4 @@
-# 域名&鉴权
+# 域名&鉴权\&APPID
 
 ### 1、**API 域名** <a href="#api-yu-ming" id="api-yu-ming"></a>
 
@@ -10,7 +10,7 @@
 
 登录KYT系统后，在帐号设置页面，可以获取apikey和secretkey。在请求接口时，为了保障安全性，除了传递apikey，还需要按规定的算法进行加密签名。并在header中传递时间戳timestamp和签名sign参数。
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ apikey过期或错误，接口返回：
 
 在KYT系统的规则引擎页面，创建APP后，会在页面上方显示每套规则配置的APPID。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

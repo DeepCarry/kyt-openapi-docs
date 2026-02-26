@@ -1,8 +1,10 @@
 # Table of contents
 
 * [KYT OPEN-API开发者文档](README.md)
+  * [V3版](kyt-openapi-kai-fa-zhe-wen-dang/v3-ban/README.md)
+    * [域名&鉴权\&APPID](kyt-openapi-kai-fa-zhe-wen-dang/v3-ban/yu-ming-jian-quan-appid.md)
   * [V2版](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/README.md)
-    * [域名&鉴权](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/yu-ming-jian-quan.md)
+    * [域名&鉴权\&APPID](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/yu-ming-jian-quan-appid.md)
     * [一、地址充值｜提现风险预警接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/yi-di-zhi-chong-zhi-ti-xian-feng-xian-yu-jing-jie-kou.md)
     * [二、实时交易风险告警接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/er-shi-shi-jiao-yi-feng-xian-gao-jing-jie-kou.md)
     * [三、主网代币枚举值接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/san-zhu-wang-dai-bi-mei-ju-zhi-jie-kou.md)
@@ -14,4 +16,3 @@
     * [九、风险类型](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/jiu-feng-xian-lei-xing.md)
     * [十、Sample Code](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/shi-sample-code.md)
     * [十一、KYC等级说明](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/shi-yi-kyc-deng-ji-shuo-ming.md)
-* [KYT API规则引擎使用指南](kyt-api-gui-ze-yin-qing-shi-yong-zhi-nan.md)
