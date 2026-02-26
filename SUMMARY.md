@@ -4,6 +4,8 @@
   * [V3版](kyt-openapi-kai-fa-zhe-wen-dang/v3-ban/README.md)
     * [域名&鉴权\&APPID](kyt-openapi-kai-fa-zhe-wen-dang/v3-ban/yu-ming-jian-quan-appid.md)
     * [支持主链代币](kyt-openapi-kai-fa-zhe-wen-dang/v3-ban/zhi-chi-zhu-lian-dai-bi.md)
+    * [1、主链代币枚举值接口](kyt-openapi-kai-fa-zhe-wen-dang/v3-ban/1-zhu-lian-dai-bi-mei-ju-zhi-jie-kou.md)
+    * [2、地址充值|提现场景风险告警接口](kyt-openapi-kai-fa-zhe-wen-dang/v3-ban/2-di-zhi-chong-zhi-ti-xian-chang-jing-feng-xian-gao-jing-jie-kou.md)
   * [V2版](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/README.md)
     * [域名&鉴权\&APPID](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/yu-ming-jian-quan-appid.md)
     * [一、地址充值｜提现风险预警接口](kyt-openapi-kai-fa-zhe-wen-dang/v2-ban/yi-di-zhi-chong-zhi-ti-xian-feng-xian-yu-jing-jie-kou.md)
