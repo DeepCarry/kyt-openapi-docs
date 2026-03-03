@@ -30,7 +30,7 @@ GET    /openapi/v3/risk/rule/address/screening
         "risk_detail": {
             "private_data": { 
                 "hit_private_whitelist": false,
-                "hit_private_balcklist": false,
+                "hit_private_blacklist": false,
             }, 
             "is_blacklist_address": true,
             "hit_direct_risk_review": false, 
@@ -63,5 +63,5 @@ GET    /openapi/v3/risk/rule/address/screening
 
 #### private\_data 字段说明
 
-<table><thead><tr><th width="203.05859375">参数名</th><th width="113.04296875">数据类型</th><th>描述</th></tr></thead><tbody><tr><td>hit_private_whitelist</td><td>boolean</td><td>是否命中私有白名单。<code>true</code> 表示命中。</td></tr><tr><td>hit_private_balcklist</td><td>boolean</td><td>是否命中私有黑名单。<code>true</code> 表示命中。</td></tr></tbody></table>
+<table><thead><tr><th width="203.05859375">参数名</th><th width="113.04296875">数据类型</th><th>描述</th></tr></thead><tbody><tr><td>hit_private_whitelist</td><td>boolean</td><td>是否命中私有白名单。<code>true</code> 表示命中。</td></tr><tr><td>hit_private_blacklist</td><td>boolean</td><td>是否命中私有黑名单。<code>true</code> 表示命中。</td></tr></tbody></table>
 
