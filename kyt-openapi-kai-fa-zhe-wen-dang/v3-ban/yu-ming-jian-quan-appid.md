@@ -38,5 +38,5 @@
 
 调用OPENAPI的接口，如果传参APPID，则风控模型会根据用户配置的规则，对筛查的风险等级进行动态调整，来满足用户个性化的风险告警需求。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 

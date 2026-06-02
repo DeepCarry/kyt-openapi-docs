@@ -36,7 +36,7 @@ apikey过期或错误，接口返回：
 
 在KYT系统的规则引擎页面，创建APP后，会在页面上方显示每套规则配置的APPID。
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
